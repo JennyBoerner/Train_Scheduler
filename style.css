@@ -1,0 +1,17 @@
+.card-header {
+    background-color: #0067d4a4 !important;
+    color: white;
+    font-weight: 500;
+    border-radius: 1px !important;
+}
+
+.card {
+    border: solid !important;
+    border-color: #0067d4a4 !important;
+    border-width: 2px !important;
+}
+
+#add-train-btn {
+    background-color: #0067d4a4 !important;
+    border-color: #0067d4a4 !important;
+}
